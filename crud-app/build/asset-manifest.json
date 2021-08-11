@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.7ac54794.chunk.js",
+    "main.js.map": "/static/js/main.7ac54794.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f25e4e2a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f25e4e2a.js.map",
+    "static/js/2.d77c5b66.chunk.js": "/static/js/2.d77c5b66.chunk.js",
+    "static/js/2.d77c5b66.chunk.js.map": "/static/js/2.d77c5b66.chunk.js.map",
+    "static/js/3.4cbed8d3.chunk.js": "/static/js/3.4cbed8d3.chunk.js",
+    "static/js/3.4cbed8d3.chunk.js.map": "/static/js/3.4cbed8d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d77c5b66.chunk.js.LICENSE.txt": "/static/js/2.d77c5b66.chunk.js.LICENSE.txt",
+    "static/media/InstaTele.f5e4b292.jpeg": "/static/media/InstaTele.f5e4b292.jpeg",
+    "static/media/NotFound.b684e5be.jpg": "/static/media/NotFound.b684e5be.jpg",
+    "static/media/youtube.7880493f.png": "/static/media/youtube.7880493f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f25e4e2a.js",
+    "static/js/2.d77c5b66.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.7ac54794.chunk.js"
+  ]
+}
