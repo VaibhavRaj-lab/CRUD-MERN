@@ -1,8 +1,8 @@
 # CRUDS Application
-
+# MERN PROJECT
 Create , Read , Update , Delete and Send data .
-validate the data before adding a user.
-FUlly MERN PROJECT
+Validate the data before adding a user.
+
 Frontend- React, Material UI
 Backend - Nodejs , Express
 Database - MongoDB atlas
