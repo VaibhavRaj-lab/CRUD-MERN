@@ -1,6 +1,6 @@
 # CRUDS Application
 ## MERN PROJECT
-Create , Read , Update , Delete and Send data .
+Create , Read , Update , Delete and Send data to your personal email using email.js .
 Validate the data before adding a user.
 
 Frontend- React, Material UI.
