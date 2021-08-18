@@ -3,9 +3,9 @@
 Create , Read , Update , Delete and Send data .
 Validate the data before adding a user.
 
-Frontend- React, Material UI
-Backend - Nodejs , Express
-Database - MongoDB atlas
+Frontend- React, Material UI.
+Backend - Nodejs , Express.
+Database - MongoDB atlas.
 
 
 ## Available Scripts
